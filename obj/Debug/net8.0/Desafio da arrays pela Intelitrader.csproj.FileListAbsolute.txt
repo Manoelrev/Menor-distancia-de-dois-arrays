@@ -1,0 +1,14 @@
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\bin\Debug\net8.0\Desafio da arrays pela Intelitrader.exe
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\bin\Debug\net8.0\Desafio da arrays pela Intelitrader.deps.json
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\bin\Debug\net8.0\Desafio da arrays pela Intelitrader.runtimeconfig.json
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\bin\Debug\net8.0\Desafio da arrays pela Intelitrader.dll
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\bin\Debug\net8.0\Desafio da arrays pela Intelitrader.pdb
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.AssemblyInfoInputs.cache
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.AssemblyInfo.cs
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.csproj.CoreCompileInputs.cache
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.dll
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\refint\Desafio da arrays pela Intelitrader.dll
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.pdb
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.genruntimeconfig.cache
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\ref\Desafio da arrays pela Intelitrader.dll
