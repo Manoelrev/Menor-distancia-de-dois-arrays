@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio da arrays pela Intelitrader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+367fb79a532d4bf9588aa1288d9f7a18feb1d41b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio da arrays pela Intelitrader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio da arrays pela Intelitrader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

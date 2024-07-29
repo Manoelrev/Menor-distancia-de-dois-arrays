@@ -12,3 +12,4 @@ c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net
 c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.pdb
 c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.genruntimeconfig.cache
 c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\ref\Desafio da arrays pela Intelitrader.dll
+c:\Users\jmano\OneDrive\Github\Desafio da arrays pela Intelitrader\obj\Debug\net8.0\Desafio da arrays pela Intelitrader.sourcelink.json
